@@ -1,11 +1,12 @@
 # awesome-webdriver-java
-A curated list of Java libraries to help to build the WebDriver test automation framework
+A list of some popular frameworks and libraries used in Java WebDriver world.
 
 ### Frameworks
 * [Serenity BDD](http://www.thucydides.info/#/) - A popular WebDriver framework which helps to eliminate lots of boilerplate code.
 * [Selenide](https://selenide.org/) - A fluent style framework with powerful jquery like selectors and with builtin proxy.
 * [WebDriverExtensions](https://github.com/webdriverextensions/webdriverextensions) - Built on top of Selenium/WebDriver to make your tests more readable, reusable and maintainable by combining the Page Object Pattern and Bot Pattern.
 * [Arquillian Graphene](http://arquillian.org/arquillian-graphene/) - Robust Functional Tests leveraging WebDriver with flavour of neat AJAX-ready API.
+* [SeleniumQuery](https://github.com/seleniumQuery/seleniumQuery) - jQuery-like cross-driver interface in Java for Selenium WebDriver
 
 ### Assertions
 * [JUnit](https://junit.org) - A unit testing framework.
@@ -27,6 +28,7 @@ A curated list of Java libraries to help to build the WebDriver test automation 
 * [SauceLabs](https://saucelabs.com/platforms)
 * [TestingBot](https://testingbot.com/articles/why-use-testingbot)
 * [CrossBrowserTesting](https://crossbrowsertesting.com/selenium-testing)
+* [Selenium-Grid-Extras](https://github.com/groupon/Selenium-Grid-Extras) - A selenium grid wrapper from Groupon.
 
 ### Streams
 * [StreamEx](https://github.com/amaembo/streamex) - Enhancing Java 8 Streams.
