@@ -40,7 +40,7 @@ A list of some popular frameworks and libraries used in Java WebDriver world.
 * [JBehave](https://jbehave.org/)
 
 #### Caching
-* [Caffiene](https://github.com/ben-manes/caffeine) - In memory caching framework.
+* [Caffiene](https://github.com/ben-manes/caffeine) - An efficient In memory caching framework, very useful to store information when running tests.
 
 #### CSV
 * [opencsv](http://opencsv.sourceforge.net/) - opencsv is an easy-to-use CSV (comma-separated values) parser library for Java
@@ -48,10 +48,10 @@ A list of some popular frameworks and libraries used in Java WebDriver world.
 
 
 #### Distributed Test Execution
-* [Selenium Grid](https://www.seleniumhq.org/projects/grid/)
-* [SauceLabs](https://saucelabs.com/platforms)
-* [TestingBot](https://testingbot.com/articles/why-use-testingbot)
-* [CrossBrowserTesting](https://crossbrowsertesting.com/selenium-testing)
+* [Selenium Grid](https://www.seleniumhq.org/projects/grid/) -Selenium Grid is a part of the Selenium Suite capable of running multiple tests across different browsers, operating systems and machines in parallel.
+* [SauceLabs](https://saucelabs.com/platforms) - One of the largest continuous testing cloud provider for web and mobile applications.
+* [TestingBot](https://testingbot.com/) - Another cloud provider for Selenium Grid.
+* [CrossBrowserTesting](https://crossbrowsertesting.com/selenium-testing) - A cloud testing provider from SmartBear.
 * [Selenium-Grid-Extras](https://github.com/groupon/Selenium-Grid-Extras) - A selenium grid wrapper from Groupon.
 
 #### Dependency Injection
