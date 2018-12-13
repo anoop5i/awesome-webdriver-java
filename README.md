@@ -22,6 +22,7 @@ A list of some popular frameworks and libraries used in Java WebDriver world.
 - [Synchronization](#synchronization)
 - [Test Data](#test-data)
 - [Utilities](#utilities)
+- [Visual Validation](#visual-validation)
 
 #### Assertions
 * [JUnit](https://junit.org) - A unit testing framework.
@@ -94,7 +95,6 @@ A list of some popular frameworks and libraries used in Java WebDriver world.
 #### Property Management
 * [Owner](http://owner.aeonbits.org/) - This library makes life easier when working with property files.
 
-
 #### REST / SOAP
 * [Unirest](http://unirest.io/java.html) - A lightweight HTTP library.
 * [RestAssured](http://rest-assured.io/) - A very popular REST test and validation library.
@@ -117,3 +117,5 @@ A list of some popular frameworks and libraries used in Java WebDriver world.
 #### Utilities
 * [Apache Commons](https://commons.apache.org/proper/commons-lang/) - Lang provides a host of helper utilities for the java.lang API.
 
+#### Visual Validation
+ * [Ocular](https://github.com/vinsguru/ocular) -Ocular is a simple utility which helps us to add the visual validation feature into the existing WebDriver test automation frameworks.
