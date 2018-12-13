@@ -109,7 +109,6 @@ A list of some popular frameworks and libraries used in Java WebDriver world.
 
 #### Synchronization
 * [Awaitility](https://github.com/awaitility/awaitility) - Awaitility is a small Java DSL for synchronizing asynchronous operations
-* [Arquillian Graphene](http://arquillian.org/arquillian-graphene/) - Ajax ready API
 
 #### Test Data
 * [JFairy](https://github.com/Devskiller/jfairy) - Java fake data generator
