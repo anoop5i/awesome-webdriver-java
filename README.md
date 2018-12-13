@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/anoopsivarajan/awesome-webdriver-java.svg?branch=master)](https://github.com/anoopsivarajan/awesome-webdriver-java)
+
 # awesome-webdriver-java
 A list of some popular frameworks and libraries used in Java WebDriver world.
 
@@ -27,7 +29,7 @@ A list of some popular frameworks and libraries used in Java WebDriver world.
 #### Assertions
 * [JUnit](https://junit.org) - A unit testing framework.
 * [AssertJ](http://joel-costigliola.github.io/assertj/) - A fluent style assertion library with capability of creating custom assertions.
-* [TestNG](http://joel-costigliola.github.io/assertj/) - TestNG is a testing framework inspired from JUnit and NUnit but introducing some new functionalities that make it more powerful and easier to use.
+* [TestNG](https://testng.org) - TestNG is a testing framework inspired from JUnit and NUnit but introducing some new functionalities that make it more powerful and easier to use.
 * [truth](https://github.com/google/truth) - A Google open source fluent style assertion library.
 
 #### Annotations
