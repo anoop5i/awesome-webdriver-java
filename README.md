@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/anoopsivarajan/awesome-webdriver-java.svg?branch=master)](https://github.com/anoopsivarajan/awesome-webdriver-java)
+[![Build Status](https://travis-ci.org/anoopsivarajan/awesome-webdriver-java.svg?branch=master)](https://github.com/anoopsivarajan/awesome-webdriver-java) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 # awesome-webdriver-java
 A list of some popular frameworks and libraries used in Java WebDriver world.
